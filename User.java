@@ -1,0 +1,6 @@
+/**
+ User Class
+*/
+Class User {
+
+}
