@@ -1,3 +1,4 @@
 demo 1 file
 
 this is some text added to demo 1 file
+this is something added to check the staged text restored.
