@@ -14,4 +14,10 @@ Class User {
  public User(){
   
  }
+
+ // method m2 and m1 is at git stash
+
+    public void m2(){
+     //method m2 completed
+   }
 }
